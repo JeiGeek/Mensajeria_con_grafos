@@ -1,0 +1,41 @@
+Silla, BOGOTA, 9000, 5, Ana Rodriguez
+Escritorio, AGUACHICA, 20, 15, Carlos Gomez
+Mueble de TV, ARAUCA, 15, 12, Laura Ramirez
+Cama, BOGOTA, 25, 0.2f, Pedro Hernandez
+Sofá, BARRANCABERMEJA, 30, 25, Maria Torres
+Mesa de Centro, BARRANQUILLA, 8, 8, Juan Diaz
+Librero, BOGOTA, 18, 14, Carmen Martinez
+Silla de Oficina, BOGOTA, 7, 0.07f, Hector Sanchez
+Comedor, BUENAVENTURA, 22, 7, Sofia Gutierrez
+Mesa de Noche, CALI, 4, 4, Roberto Lopez
+Cómoda, BOGOTA, 17, 13, Diana Castro
+Estante, CHINQUINQUIRA, 12, 1, Ricardo Silva
+Mesa de Estudio, BOGOTA, 10, 9, Isabel Vargas
+Sillón Reclinable, CUCUTA, 28, 22, Antonio Mendoza
+Cuna, DUITAMA, 14, 11, Gabriela Pineda
+Mesa de Jardín, GIRADOT, 16, 12, Fernando Ramirez
+Mesa de Bar, IBAGUE, 9, 9, Monica Hernandez
+Lámpara, MAICAO, 3, 3, Luis Morales
+Mesa de Picnic, MALAGA, 26, 2, Silvia Perez
+Kit de exploracion, OCAÑA, 33, 31.3f, Andrea Lopez
+Mesa de Ping Pong, MANIZALES, 32, 25, Jorge Rodriguez
+Cajonera, MEDELLIN, 19, 15, Patricia Herrera
+Mesa de Billar, BOGOTA, 35, 28, Daniel Gomez
+Mesa de Reuniones, BOGOTA, 24, 18, Carolina Torres
+Mueble de Baño, MONTERIA, 11, 1, Victor Diaz
+Silla Mecedora, NEIVA, 6, 6, Marta Gomez
+Mesa de Dibujo, OCAÑA, 21, 16, Andres Gonzalez
+Mesa de Consola, PAIPA, 23, 17, Juan Gomez
+Mesa de Poker, PALMIRA, 29, 23, Jhonatan Chaux
+Bulto de piña, PAMPLONA, 15, 14, Ashly Garcia
+Mesa de Comedor, BOGOTA, 18, 16, Roberto Torres
+Mesa de Centro, BOGOTAA, 8, 8, Daniel Martinez
+Mesa de Bar, BOGOTA, 12, 1, Arlon Malagon
+Juego de camandulas, PUERTO BERRIO, 7, 7, Juan Gualdron
+Libro de calculo, PUERTO WILCHES, 14, 4, Santiago Mora
+Set de lego, QUIBDO, 26, 2, Brayan Acevedo
+Mesa de Escritura, RIONEGRO, 10, 9, Miguel Jaimes
+Mesa de Cama, SABANANA DE TORRES, 5, 5, Daniel Sanchez
+Bulto de butifarra, BOGOTA, 16, 12, David Zapata
+Silla de Comedor, SANTA MARTA, 20, 15, Sara Patiño
+Mesa de Juegos, BOGOTA, 32, 25, Steven Rey
