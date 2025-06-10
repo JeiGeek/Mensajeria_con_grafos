@@ -1,6 +1,6 @@
 # 📦 Sistema de Gestión de Envíos CargaVeloz
 
-**Proyecto Final de Estructura de Datos y Análisis de Algoritmos (Grupo B1)**
+![Second Shop Logo/Banner Placeholder](https://github.com/JeiGeek/Proyecto_tienda/blob/master/Frontend/src/imagenes/20.jpg)
 
 Este repositorio contiene el proyecto final desarrollado para la empresa CargaVeloz, un sistema diseñado para optimizar la gestión y entrega de paquetería, calculando rutas eficientes y considerando factores como el tráfico en las vías.
 
