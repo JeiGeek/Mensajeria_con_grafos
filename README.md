@@ -1,6 +1,6 @@
 # 📦 Sistema de Gestión de Envíos CargaVeloz
 
-![Second Shop Logo/Banner Placeholder](https://github.com/JeiGeek/Mensajeria_con_grafos/Mensajeria/src/Imagenes/icono.png)
+![CargaVeloz Logo/Banner Placeholder](https://github.com/JeiGeek/Mensajeria_con_grafos/blob/main/Mensajeria/src/Imagenes/icono.png)
 
 Este repositorio contiene el proyecto final desarrollado para la empresa CargaVeloz, un sistema diseñado para optimizar la gestión y entrega de paquetería, calculando rutas eficientes y considerando factores como el tráfico en las vías.
 
